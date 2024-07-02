@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lpc13\\source\\repos\\EasyChallenge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56B424AB-B399-4750-8850-2B6BA959E07F}|TwistedFizzBuzzTests\\TwistedFizzBuzzTests.csproj|c:\\users\\lpc13\\source\\repos\\easychallenge\\twistedfizzbuzztests\\fizzbuzztests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B424AB-B399-4750-8850-2B6BA959E07F}|TwistedFizzBuzzTests\\TwistedFizzBuzzTests.csproj|solutionrelative:twistedfizzbuzztests\\fizzbuzztests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E7E7CAA-6A4E-450A-B7A7-53471D435156}|TwistedFizzBuzz\\TwistedFizzBuzz.csproj|c:\\users\\lpc13\\source\\repos\\easychallenge\\twistedfizzbuzz\\fizzbuzz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E7E7CAA-6A4E-450A-B7A7-53471D435156}|TwistedFizzBuzz\\TwistedFizzBuzz.csproj|solutionrelative:twistedfizzbuzz\\fizzbuzz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E86C9A-D4D7-409A-8264-293CE27AB9DA}|ApiFizzBuzz\\ApiFizzBuzz.csproj|c:\\users\\lpc13\\source\\repos\\easychallenge\\apifizzbuzz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E86C9A-D4D7-409A-8264-293CE27AB9DA}|ApiFizzBuzz\\ApiFizzBuzz.csproj|solutionrelative:apifizzbuzz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{722E1220-5BCE-493A-8025-1819D4FD4AE1}|StandardFizzBuzz\\StandardFizzBuzz.csproj|c:\\users\\lpc13\\source\\repos\\easychallenge\\standardfizzbuzz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{722E1220-5BCE-493A-8025-1819D4FD4AE1}|StandardFizzBuzz\\StandardFizzBuzz.csproj|solutionrelative:standardfizzbuzz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E7E7CAA-6A4E-450A-B7A7-53471D435156}|TwistedFizzBuzz\\TwistedFizzBuzz.csproj|c:\\users\\lpc13\\source\\repos\\easychallenge\\twistedfizzbuzz\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E7E7CAA-6A4E-450A-B7A7-53471D435156}|TwistedFizzBuzz\\TwistedFizzBuzz.csproj|solutionrelative:twistedfizzbuzz\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{343B7B77-6756-46A9-BB35-67D9372A56C5}|CustomFizzBuzz\\CustomFizzBuzz.csproj|c:\\users\\lpc13\\source\\repos\\easychallenge\\customfizzbuzz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{343B7B77-6756-46A9-BB35-67D9372A56C5}|CustomFizzBuzz\\CustomFizzBuzz.csproj|solutionrelative:customfizzbuzz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lpc13\\source\\repos\\EasyChallenge\\ApiFizzBuzz\\Program.cs",
+              "RelativeDocumentMoniker": "ApiFizzBuzz\\Program.cs",
+              "ToolTip": "C:\\Users\\lpc13\\source\\repos\\EasyChallenge\\ApiFizzBuzz\\Program.cs",
+              "RelativeToolTip": "ApiFizzBuzz\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:05:51.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\lpc13\\source\\repos\\EasyChallenge\\TwistedFizzBuzz\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "TwistedFizzBuzz\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\lpc13\\source\\repos\\EasyChallenge\\TwistedFizzBuzz\\ApiResponse.cs",
+              "RelativeToolTip": "TwistedFizzBuzz\\ApiResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:04:22.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FizzBuzzTests.cs",
+              "DocumentMoniker": "C:\\Users\\lpc13\\source\\repos\\EasyChallenge\\TwistedFizzBuzzTests\\FizzBuzzTests.cs",
+              "RelativeDocumentMoniker": "TwistedFizzBuzzTests\\FizzBuzzTests.cs",
+              "ToolTip": "C:\\Users\\lpc13\\source\\repos\\EasyChallenge\\TwistedFizzBuzzTests\\FizzBuzzTests.cs",
+              "RelativeToolTip": "TwistedFizzBuzzTests\\FizzBuzzTests.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T16:28:43.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FizzBuzz.cs",
+              "DocumentMoniker": "C:\\Users\\lpc13\\source\\repos\\EasyChallenge\\TwistedFizzBuzz\\FizzBuzz.cs",
+              "RelativeDocumentMoniker": "TwistedFizzBuzz\\FizzBuzz.cs",
+              "ToolTip": "C:\\Users\\lpc13\\source\\repos\\EasyChallenge\\TwistedFizzBuzz\\FizzBuzz.cs",
+              "RelativeToolTip": "TwistedFizzBuzz\\FizzBuzz.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCoAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T16:24:47.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lpc13\\source\\repos\\EasyChallenge\\CustomFizzBuzz\\Program.cs",
+              "RelativeDocumentMoniker": "CustomFizzBuzz\\Program.cs",
+              "ToolTip": "C:\\Users\\lpc13\\source\\repos\\EasyChallenge\\CustomFizzBuzz\\Program.cs",
+              "RelativeToolTip": "CustomFizzBuzz\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T16:04:27.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lpc13\\source\\repos\\EasyChallenge\\StandardFizzBuzz\\Program.cs",
+              "RelativeDocumentMoniker": "StandardFizzBuzz\\Program.cs",
+              "ToolTip": "C:\\Users\\lpc13\\source\\repos\\EasyChallenge\\StandardFizzBuzz\\Program.cs",
+              "RelativeToolTip": "StandardFizzBuzz\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T16:03:27.185Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\Users\lpc13\source\repos\EasyChallenge\TwistedFizzBuzz\bin\Debug\net6.0\TwistedFizzBuzz.deps.json
+C:\Users\lpc13\source\repos\EasyChallenge\TwistedFizzBuzz\bin\Debug\net6.0\TwistedFizzBuzz.dll
+C:\Users\lpc13\source\repos\EasyChallenge\TwistedFizzBuzz\bin\Debug\net6.0\TwistedFizzBuzz.pdb
+C:\Users\lpc13\source\repos\EasyChallenge\TwistedFizzBuzz\obj\Debug\net6.0\TwistedFizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lpc13\source\repos\EasyChallenge\TwistedFizzBuzz\obj\Debug\net6.0\TwistedFizzBuzz.AssemblyInfoInputs.cache
+C:\Users\lpc13\source\repos\EasyChallenge\TwistedFizzBuzz\obj\Debug\net6.0\TwistedFizzBuzz.AssemblyInfo.cs
+C:\Users\lpc13\source\repos\EasyChallenge\TwistedFizzBuzz\obj\Debug\net6.0\TwistedFizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\lpc13\source\repos\EasyChallenge\TwistedFizzBuzz\obj\Debug\net6.0\TwistedFizzBuzz.dll
+C:\Users\lpc13\source\repos\EasyChallenge\TwistedFizzBuzz\obj\Debug\net6.0\refint\TwistedFizzBuzz.dll
+C:\Users\lpc13\source\repos\EasyChallenge\TwistedFizzBuzz\obj\Debug\net6.0\TwistedFizzBuzz.pdb
+C:\Users\lpc13\source\repos\EasyChallenge\TwistedFizzBuzz\obj\Debug\net6.0\ref\TwistedFizzBuzz.dll
+C:\Users\lpc13\source\repos\EasyChallenge\TwistedFizzBuzz\obj\Debug\net6.0\TwistedFizzBuzz.csproj.AssemblyReference.cache
