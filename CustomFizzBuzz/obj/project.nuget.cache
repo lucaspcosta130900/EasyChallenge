@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5RXnJjrev9A=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lpc13\\source\\repos\\EasyChallenge\\CustomFizzBuzz\\CustomFizzBuzz.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lpc13\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
